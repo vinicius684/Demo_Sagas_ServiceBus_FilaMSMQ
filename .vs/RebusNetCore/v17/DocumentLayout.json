@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A2D76A-B617-495C-AC84-6E6B5DC78CC8}|RebusNetCore\\RebusNetCore.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_8modelagemdedominiosricos\\demo_sagas_servicebus_filamsmq\\rebusnetcore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A2D76A-B617-495C-AC84-6E6B5DC78CC8}|RebusNetCore\\RebusNetCore.csproj|solutionrelative:rebusnetcore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A2D76A-B617-495C-AC84-6E6B5DC78CC8}|RebusNetCore\\RebusNetCore.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_8modelagemdedominiosricos\\demo_sagas_servicebus_filamsmq\\rebusnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A2D76A-B617-495C-AC84-6E6B5DC78CC8}|RebusNetCore\\RebusNetCore.csproj|solutionrelative:rebusnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A2D76A-B617-495C-AC84-6E6B5DC78CC8}|RebusNetCore\\RebusNetCore.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_8modelagemdedominiosricos\\demo_sagas_servicebus_filamsmq\\rebusnetcore\\rebusnetcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9A2D76A-B617-495C-AC84-6E6B5DC78CC8}|RebusNetCore\\RebusNetCore.csproj|solutionrelative:rebusnetcore\\rebusnetcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53089904-3BC1-47EB-9354-34F19E26A26E}|Pedido\\Pedido.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_8modelagemdedominiosricos\\demo_sagas_servicebus_filamsmq\\pedido\\pedidosaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53089904-3BC1-47EB-9354-34F19E26A26E}|Pedido\\Pedido.csproj|solutionrelative:pedido\\pedidosaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AFEEA3-A916-4A17-8253-A4C4FEB11F98}|Pagamento\\Pagamento.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_8modelagemdedominiosricos\\demo_sagas_servicebus_filamsmq\\pagamento\\pagamentocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94AFEEA3-A916-4A17-8253-A4C4FEB11F98}|Pagamento\\Pagamento.csproj|solutionrelative:pagamento\\pagamentocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AFEEA3-A916-4A17-8253-A4C4FEB11F98}|Pagamento\\Pagamento.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_8modelagemdedominiosricos\\demo_sagas_servicebus_filamsmq\\pagamento\\commands\\realizarpagamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94AFEEA3-A916-4A17-8253-A4C4FEB11F98}|Pagamento\\Pagamento.csproj|solutionrelative:pagamento\\commands\\realizarpagamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AFEEA3-A916-4A17-8253-A4C4FEB11F98}|Pagamento\\Pagamento.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_8modelagemdedominiosricos\\demo_sagas_servicebus_filamsmq\\pagamento\\pagamentoeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94AFEEA3-A916-4A17-8253-A4C4FEB11F98}|Pagamento\\Pagamento.csproj|solutionrelative:pagamento\\pagamentoeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53089904-3BC1-47EB-9354-34F19E26A26E}|Pedido\\Pedido.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_8modelagemdedominiosricos\\demo_sagas_servicebus_filamsmq\\pedido\\pedidoeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53089904-3BC1-47EB-9354-34F19E26A26E}|Pedido\\Pedido.csproj|solutionrelative:pedido\\pedidoeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D927580-6DCC-4C46-B2E7-DD13FD95CEF4}|Core\\Core.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_8modelagemdedominiosricos\\demo_sagas_servicebus_filamsmq\\core\\messages\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D927580-6DCC-4C46-B2E7-DD13FD95CEF4}|Core\\Core.csproj|solutionrelative:core\\messages\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D927580-6DCC-4C46-B2E7-DD13FD95CEF4}|Core\\Core.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_8modelagemdedominiosricos\\demo_sagas_servicebus_filamsmq\\core\\messages\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D927580-6DCC-4C46-B2E7-DD13FD95CEF4}|Core\\Core.csproj|solutionrelative:core\\messages\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D927580-6DCC-4C46-B2E7-DD13FD95CEF4}|Core\\Core.csproj|c:\\users\\vpinh\\desktop\\desenvolvedor.io\\_8modelagemdedominiosricos\\demo_sagas_servicebus_filamsmq\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D927580-6DCC-4C46-B2E7-DD13FD95CEF4}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\RebusNetCore\\Startup.cs",
+              "RelativeDocumentMoniker": "RebusNetCore\\Startup.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\RebusNetCore\\Startup.cs",
+              "RelativeToolTip": "RebusNetCore\\Startup.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA3wEoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:27:45.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\RebusNetCore\\Program.cs",
+              "RelativeDocumentMoniker": "RebusNetCore\\Program.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\RebusNetCore\\Program.cs",
+              "RelativeToolTip": "RebusNetCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:29:39.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PagamentoEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Pagamento\\PagamentoEventHandler.cs",
+              "RelativeDocumentMoniker": "Pagamento\\PagamentoEventHandler.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Pagamento\\PagamentoEventHandler.cs",
+              "RelativeToolTip": "Pagamento\\PagamentoEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:13:59.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagamentoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Pagamento\\PagamentoCommandHandler.cs",
+              "RelativeDocumentMoniker": "Pagamento\\PagamentoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Pagamento\\PagamentoCommandHandler.cs",
+              "RelativeToolTip": "Pagamento\\PagamentoCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:00:01.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RealizarPagamentoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Pagamento\\Commands\\RealizarPagamentoCommand.cs",
+              "RelativeDocumentMoniker": "Pagamento\\Commands\\RealizarPagamentoCommand.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Pagamento\\Commands\\RealizarPagamentoCommand.cs",
+              "RelativeToolTip": "Pagamento\\Commands\\RealizarPagamentoCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:59:58.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoSaga.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Pedido\\PedidoSaga.cs",
+              "RelativeDocumentMoniker": "Pedido\\PedidoSaga.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Pedido\\PedidoSaga.cs",
+              "RelativeToolTip": "Pedido\\PedidoSaga.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwIIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:40:49.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RebusNetCore",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\RebusNetCore\\RebusNetCore.csproj",
+              "RelativeDocumentMoniker": "RebusNetCore\\RebusNetCore.csproj",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\RebusNetCore\\RebusNetCore.csproj",
+              "RelativeToolTip": "RebusNetCore\\RebusNetCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T12:39:24.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Core\\Messages\\Command.cs",
+              "RelativeDocumentMoniker": "Core\\Messages\\Command.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Core\\Messages\\Command.cs",
+              "RelativeToolTip": "Core\\Messages\\Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:59:52.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Core\\Messages\\Event.cs",
+              "RelativeDocumentMoniker": "Core\\Messages\\Event.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Core\\Messages\\Event.cs",
+              "RelativeToolTip": "Core\\Messages\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:59:51.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PedidoEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Pedido\\PedidoEventHandler.cs",
+              "RelativeDocumentMoniker": "Pedido\\PedidoEventHandler.cs",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Pedido\\PedidoEventHandler.cs",
+              "RelativeToolTip": "Pedido\\PedidoEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:48:16.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\vpinh\\Desktop\\Desenvolvedor.io\\_8ModelagemDeDominiosRicos\\Demo_Sagas_ServiceBus_FilaMSMQ\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T12:18:15.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

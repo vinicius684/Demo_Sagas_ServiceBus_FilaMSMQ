@@ -1,0 +1,13 @@
+C:\Users\vpinh\Desktop\Desenvolvedor.io\_8ModelagemDeDominiosRicos\Demo_Sagas_ServiceBus_FilaMSMQ\Pagamento\bin\Debug\netcoreapp2.2\Pagamento.deps.json
+C:\Users\vpinh\Desktop\Desenvolvedor.io\_8ModelagemDeDominiosRicos\Demo_Sagas_ServiceBus_FilaMSMQ\Pagamento\bin\Debug\netcoreapp2.2\Pagamento.dll
+C:\Users\vpinh\Desktop\Desenvolvedor.io\_8ModelagemDeDominiosRicos\Demo_Sagas_ServiceBus_FilaMSMQ\Pagamento\bin\Debug\netcoreapp2.2\Pagamento.pdb
+C:\Users\vpinh\Desktop\Desenvolvedor.io\_8ModelagemDeDominiosRicos\Demo_Sagas_ServiceBus_FilaMSMQ\Pagamento\bin\Debug\netcoreapp2.2\Core.dll
+C:\Users\vpinh\Desktop\Desenvolvedor.io\_8ModelagemDeDominiosRicos\Demo_Sagas_ServiceBus_FilaMSMQ\Pagamento\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Users\vpinh\Desktop\Desenvolvedor.io\_8ModelagemDeDominiosRicos\Demo_Sagas_ServiceBus_FilaMSMQ\Pagamento\obj\Debug\netcoreapp2.2\Pagamento.csproj.AssemblyReference.cache
+C:\Users\vpinh\Desktop\Desenvolvedor.io\_8ModelagemDeDominiosRicos\Demo_Sagas_ServiceBus_FilaMSMQ\Pagamento\obj\Debug\netcoreapp2.2\Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpinh\Desktop\Desenvolvedor.io\_8ModelagemDeDominiosRicos\Demo_Sagas_ServiceBus_FilaMSMQ\Pagamento\obj\Debug\netcoreapp2.2\Pagamento.AssemblyInfoInputs.cache
+C:\Users\vpinh\Desktop\Desenvolvedor.io\_8ModelagemDeDominiosRicos\Demo_Sagas_ServiceBus_FilaMSMQ\Pagamento\obj\Debug\netcoreapp2.2\Pagamento.AssemblyInfo.cs
+C:\Users\vpinh\Desktop\Desenvolvedor.io\_8ModelagemDeDominiosRicos\Demo_Sagas_ServiceBus_FilaMSMQ\Pagamento\obj\Debug\netcoreapp2.2\Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\vpinh\Desktop\Desenvolvedor.io\_8ModelagemDeDominiosRicos\Demo_Sagas_ServiceBus_FilaMSMQ\Pagamento\obj\Debug\netcoreapp2.2\Pagamento.csproj.Up2Date
+C:\Users\vpinh\Desktop\Desenvolvedor.io\_8ModelagemDeDominiosRicos\Demo_Sagas_ServiceBus_FilaMSMQ\Pagamento\obj\Debug\netcoreapp2.2\Pagamento.dll
+C:\Users\vpinh\Desktop\Desenvolvedor.io\_8ModelagemDeDominiosRicos\Demo_Sagas_ServiceBus_FilaMSMQ\Pagamento\obj\Debug\netcoreapp2.2\Pagamento.pdb
